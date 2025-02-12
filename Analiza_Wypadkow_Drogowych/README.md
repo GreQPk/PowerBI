@@ -17,3 +17,4 @@ Zawiera interaktywne wizualizacje, trend czasowy oraz wskaźnik zmiany liczby wy
 
 🖼️ **Podgląd raportu:**  
 
+![Zrzut ekranu](Screenshots/sc_1.png)
