@@ -12,7 +12,9 @@ Zawiera interaktywne wizualizacje, trend czasowy oraz wskaźnik zmiany liczby wy
 ## 📊 Raport zawiera:
 
 -✅ Liczba wypadków w podziale na województwa (interaktywna mapa Polski + wykres kolumnowy)
+
 -✅ Zmiana rok do roku (wzrost/spadek liczby wypadków)
+
 -✅ Trend roczny (wykres liniowy pokazujący zmiany na przestrzeni lat)
 
 🖼️ **Podgląd raportu:**  
